@@ -1,0 +1,11 @@
+Charpter 1:
+supervised learning
+feature, attribute
+classification/regression
+task understanding -> data understanding -> data preparation -> modeling -> evaluation -> deployment
+
+Charpter 2:
+algebra/probability/geometry/symbols
+itertools/collections/functools
+numpy/pandas/matplotlib/seaborn
+scikit-learn
