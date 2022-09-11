@@ -10,3 +10,7 @@ itertools/collections/functools
 numpy/pandas/matplotlib/seaborn
 scikit-learn
 normal distribution
+
+Charpter 3:
+binary classification
+multiclass classification
