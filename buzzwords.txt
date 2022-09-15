@@ -14,3 +14,8 @@ normal distribution
 Charpter 3:
 binary classification
 multiclass classification
+generalization
+in-sample evaluation/training error
+Euclidean distance/Minkowski distance/Hamming distance
+nonparametric learning method
+hyperparameter
