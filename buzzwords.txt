@@ -19,3 +19,6 @@ in-sample evaluation/training error
 Euclidean distance/Minkowski distance/Hamming distance
 nonparametric learning method
 hyperparameter
+
+Charpter:
+standardizing/z-scoring
